@@ -3,10 +3,10 @@
 #### N companies
 * Netflix: https://twitter.com/NetflixEng
 
-#### S technologies
+#### S companies
 * Shopify: https://twitter.com/ShopifyEng
 
-#### W technologies
+#### W companies
 * Wix: https://twitter.com/WixEng
 
 ----
