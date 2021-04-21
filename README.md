@@ -1,4 +1,4 @@
-### Companies Engineering Accounts on Twitter:
+### Companies with Engineering Accounts on Twitter:
 
 #### A companies
 * AirBnb: https://twitter.com/AirbnbEng
